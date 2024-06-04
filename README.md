@@ -1,6 +1,6 @@
 # Technologies Used
-###Frontend: ReactJS, Axios
-###APIs: 
+### Frontend: ReactJS, Axios
+### APIs: 
 1. https://rapidapi.com/wirefreethought/api/geodb-cities
 2. https://flagsapi.com/
 
